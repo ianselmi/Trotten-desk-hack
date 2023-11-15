@@ -12,3 +12,4 @@ Following the components list
 ## Code
 - [Here](https://github.com/Heltec-Aaron-Lee/heltec0.96OLED) example code to manage the display
 - [WifiConfig](https://github.com/drmpf/ESPAutoWiFiConfig) - for wifi manager and configuration without fixed data into the code
+- OTA for software update
